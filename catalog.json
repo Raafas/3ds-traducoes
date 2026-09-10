@@ -76,6 +76,24 @@
       "downloadUrl": "https://github.com/Raafas/3ds-traducoes/releases/download/1.0.0/pokemon-x-v1.5.0.zip",
       "sha256": "0665251a9a2ac37d49b50faec07ca7c20b113eefe98ed653df3877b08339deb8",
       "size": 45072226
+    },
+    {
+      "id": "hey-pikmin",
+      "name": "Hey! Pikmin (USA)",
+      "language": "pt-BR",
+      "version": "1.0.0",
+      "author": "Traduções PKG",
+      "description": "https://pkgtraducoes.com.br/traducoes/hey-pikmin/",
+      "titleId": "00040000001AFA00",
+      "changelog": "1.0.0",
+      "tags": [
+        "PT-BR",
+        "LayeredFS"
+      ],
+      "website": "https://pkgtraducoes.com.br/traducoes/hey-pikmin/",
+      "downloadUrl": "https://github.com/Raafas/3ds-traducoes/releases/download/1.0.0/hey-pikmin-v1.0.0.zip",
+      "sha256": "be69281c763a8bb3619dc1b1bfb5a8bd0ac5520238cc4ef142219f1342072529",
+      "size": 127950
     }
   ]
 }
