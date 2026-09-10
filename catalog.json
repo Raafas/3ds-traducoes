@@ -58,6 +58,24 @@
       "downloadUrl": "https://github.com/Raafas/3ds-traducoes/releases/download/1.0.0/zelda-a-link-between-worlds-v1.2.0.zip",
       "sha256": "962c58a8c89b232fa9e20cf9da11a9d85762a729513b7f4e1466a474f5f22330",
       "size": 1238769
+    },
+    {
+      "id": "pokemon-x",
+      "name": "Pokémon X",
+      "language": "pt-BR",
+      "version": "1.5.0",
+      "author": "E4T",
+      "description": "ttps://e4t.com.br/downloads/xy/pokemon-x/",
+      "titleId": "0004000000055D00",
+      "changelog": "1.0.0",
+      "tags": [
+        "PT-BR",
+        "LayeredFS"
+      ],
+      "website": "https://e4t.com.br/downloads/xy/pokemon-x/",
+      "downloadUrl": "https://github.com/Raafas/3ds-traducoes/releases/download/1.0.0/pokemon-x-v1.5.0.zip",
+      "sha256": "0665251a9a2ac37d49b50faec07ca7c20b113eefe98ed653df3877b08339deb8",
+      "size": 45072226
     }
   ]
 }
