@@ -20,6 +20,26 @@
       "size": 367352,
       "coverUrl": "https://raw.githubusercontent.com/Raafas/3ds-traducoes/main/covers/box-box-boy-pt-br.png",
       "coverSha256": "8b36d69159163ec438998a67d695f76ebd292efcca5f2f78cf34c6fe42c894cb"
+    },
+    {
+      "id": "zelda-ocarina-of-time",
+      "name": "The Legend of Zelda: Ocarina of Time 3D",
+      "language": "pt-BR",
+      "version": "1.2.0",
+      "author": "Catatau, Hareon, Fserve, Kosmus, Solitário, Brytred, MrVtR, Wesley, Mafra, Banette, Vihh_Art e Guihhh.",
+      "description": "https://www.jumpmanclubbrasil.com.br/post/zelda-ocarina",
+      "titleId": "0004000000033500",
+      "changelog": "1.0.0",
+      "tags": [
+        "PT-BR",
+        "LayeredFS"
+      ],
+      "website": "https://e4t.com.br",
+      "downloadUrl": "https://github.com/Raafas/3ds-traducoes/releases/download/1.0.0/zelda-ocarina-of-time-v1.2.0.zip",
+      "sha256": "8d553514951b928e31977c729c10454289e23611a5c4c7f78f9c66d4cb1874ee",
+      "size": 13508355,
+      "coverUrl": "https://raw.githubusercontent.com/Raafas/3ds-traducoes/main/covers/zelda-ocarina-of-time.png",
+      "coverSha256": "043b47676bcd0b958d102b8979285e689a1a3e1e0ccc1c6250fab28bf12d9bcc"
     }
   ]
 }
