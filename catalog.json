@@ -40,6 +40,24 @@
       "size": 13508355,
       "coverUrl": "https://raw.githubusercontent.com/Raafas/3ds-traducoes/main/covers/zelda-ocarina-of-time.png",
       "coverSha256": "043b47676bcd0b958d102b8979285e689a1a3e1e0ccc1c6250fab28bf12d9bcc"
+    },
+    {
+      "id": "zelda-a-link-between-worlds",
+      "name": "The Legend of Zelda: A Link Between Worlds",
+      "language": "pt-BR",
+      "version": "1.2.0",
+      "author": "Jumpman Club Brasil",
+      "description": "https://www.jumpmanclubbrasil.com.br/post/zelda-link-between-worlds",
+      "titleId": "00040000000EC300",
+      "changelog": "1.0.0",
+      "tags": [
+        "PT-BR",
+        "LayeredFS"
+      ],
+      "website": "https://www.jumpmanclubbrasil.com.br/post/zelda-link-between-worlds",
+      "downloadUrl": "https://github.com/Raafas/3ds-traducoes/releases/download/1.0.0/zelda-a-link-between-worlds-v1.2.0.zip",
+      "sha256": "91a874f2f1c479fdc15355d5dd74271d5bf7518c3990193c8b9ac6b7a1bfdebc",
+      "size": 1239012
     }
   ]
 }
