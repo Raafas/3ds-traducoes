@@ -94,24 +94,6 @@
       "downloadUrl": "https://github.com/Raafas/3ds-traducoes/releases/download/1.0.0/hey-pikmin-v1.0.0.zip",
       "sha256": "be69281c763a8bb3619dc1b1bfb5a8bd0ac5520238cc4ef142219f1342072529",
       "size": 127950
-    },
-    {
-      "id": "fire-emblem-awakening",
-      "name": "Fire Emblem: Awakening",
-      "language": "pt-BR",
-      "version": "1.0.0",
-      "author": "Astro",
-      "description": "https://www.romhacking.net.br/index.php?topic=3391.msg24584",
-      "titleId": "00040000000A0500",
-      "changelog": "1.0.0",
-      "tags": [
-        "PT-BR",
-        "LayeredFS"
-      ],
-      "website": "https://www.romhacking.net.br/index.php?topic=3391.msg24584",
-      "downloadUrl": "https://github.com/Raafas/3ds-traducoes/releases/download/1.0.0/fire-emblem-awakening-v1.0.0.zip",
-      "sha256": "c2668df901ecb82f0fd9bd0703c45d658ef673acbba28ac1c09d4700b3277561",
-      "size": 248609562
     }
   ]
 }
